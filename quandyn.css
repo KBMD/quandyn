@@ -1,0 +1,42 @@
+body, html {
+	font-family:Helvetica, sans-serif;
+}
+
+#hdr
+{
+    text-align:center;
+}
+
+#hdr img
+{
+    padding-top:20px;
+}
+
+h1 
+{
+    text-align:center;
+}
+
+#figarea
+{
+    min-width:1200px;
+}
+
+div.fig
+{
+    float:left;
+    display:inline;
+    max-width:500px;
+    padding:0 20px 0 80px;
+}
+
+div.fig p,div.fig img
+{
+    display:block;
+    max-width:500px;
+}
+
+#sum
+{
+    clear:both;
+}

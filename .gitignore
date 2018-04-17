@@ -1,0 +1,18 @@
+#backup files
+*.bak
+.ipynb_checkpoints/
+
+#thumbnails created by windows
+Thumbs.db
+
+#image files (uncomment a line below to keep that file type from being backed up)
+# *.png
+# *.tiff
+
+#other outputs
+*.pdf
+
+# A more generic, non-Lazarus .gitignore is at https://gist.github.com/octocat/9257657
+*.dat
+*.4dfp.img
+
